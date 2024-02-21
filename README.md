@@ -21,45 +21,45 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Hangman_SS/Starting_screen.png" alt="Screenshot 1">
+  <img src="strategic-five_SS/starting_screen.png" alt="Screenshot 1">
 </p>
 <p align="center">
-  This is what you will see when you run the program
-</p>
-
-<p align="center">
-  <img src="Hangman_SS/Correct_word.png" alt="Screenshot 2">
-</p>
-<p align="center">
-  If you guess the correct word, it will be displayed while hiding other letters
+  You can choose between Human V Human OR Human VS AI
 </p>
 
 <p align="center">
-  <img src="Hangman_SS/same_letter.png" alt="Screenshot 3">
+  <img src="strategic-five_SS/board-type.png" alt="Screenshot 2">
 </p>
 <p align="center">
-  You will get a written message along with a beep indicating that you have entered the same letter
-</p>
-
-<p align="center">
-  <img src="Hangman_SS/wrong_guess.png" alt="Screenshot 4">
-</p>
-<p align="center">
-  You will get a written message along with a beep indicating that you have entered the wrong letter and mistakes are reduced by 1
+  You can choose between two types of boards
 </p>
 
 <p align="center">
-  <img src="Hangman_SS/lost.png" alt="Screenshot 5">
+  <img src="strategic-five_SS/board_9x9.png" alt="Screenshot 3">
 </p>
 <p align="center">
-  If you run out of mistakes, then the above is printed
+  This is how 9 x 9 board is printed
 </p>
 
 <p align="center">
-  <img src="Hangman_SS/win.png" alt="Screenshot 6">
+  <img src="strategic-five_SS/board_15x15.png" alt="Screenshot 4">
 </p>
 <p align="center">
-  If you guess all the letters correctly, the above is printed
+  This is how 15 x 15 board is printed
+</p>
+
+<p align="center">
+  <img src="strategic-five_SS/playing.png" alt="Screenshot 5">
+</p>
+<p align="center">
+  This how you can enter your move
+</p>
+
+<p align="center">
+  <img src="strategic-five_SS/win_screen.png" alt="Screenshot 6">
+</p>
+<p align="center">
+  Winner screen
 </p>
 
 
