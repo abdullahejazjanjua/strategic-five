@@ -11,7 +11,7 @@
      - Open the project folder in VS Code.
      - Use the integrated terminal to run:
        ```bash
-       g++ strategic-five.cpp -o strategic-five
+       g++ -o strategic-five strategic-five.cpp -lwinmm
        ```
   3. Run the game.
      ```bash
